@@ -128,7 +128,7 @@ class DistanceSensor(_Connectable):
     def get_distance_inches(self, short_range: bool = False, /) -> int:
         pass
 
-    def get_distance_dm(self, short_range: bool = False, /) -> int:
+    def get_distance_cm(self, short_range: bool = False, /) -> int:
         pass
 
 
