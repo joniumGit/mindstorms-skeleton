@@ -1,4 +1,4 @@
-## Lego Mindstorms: Robot Inventor
+## Robot Inventor Project Skeleton
 
 ---
 
@@ -22,3 +22,10 @@ Includes type hinted classes for developing outside the LEGO application.
 - Check the `math` portion of Lego docs
 - Add all of the `hub` API to here
 - Add REPL support via `rshell`
+
+---
+
+## DISCLAIMER
+
+All created code is MIT licensed. No proprietary material is contained in the repo. No attempt is made to infringe on
+the copyright or trademarks of Lego. 
